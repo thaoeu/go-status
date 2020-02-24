@@ -97,7 +97,7 @@ func main() {
 		c = "一刻"
 	} else if Minu >= 30 && Minu < 38 {
 		c = "半"
-	} else if Minu >= 38 && Minu < 45 {
+	} else if Minu >= 38 && Minu < 53 {
 		c = "差一刻"
 	} else if Minu >= 53 {
 		c = "差一益"
